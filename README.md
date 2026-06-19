@@ -16,7 +16,7 @@ Built for the GEO Product Management Trainee technical assessment ("The Fact-Che
 
 ## Demo Video
 
-👉 **https://drive.google.com/file/d/1dxai-lCCQBI_IvY75VYgGcpfwhK_BoEg/view?usp=sharing**
+👉 **https://drive.google.com/file/d/1dxai-lCCQBI_IvY75VYgGcpfwhK_BoEg/view?usp=drive_link**
 
 ---
 
