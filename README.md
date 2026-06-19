@@ -12,7 +12,7 @@ Built for the GEO Product Management Trainee technical assessment ("The Fact-Che
 
 ## Live App
 
-👉 **[Add your deployed Streamlit Cloud link here]**
+👉 **https://fact-check-agent-a7bhwoatfyrcragl8ojvd8.streamlit.app/**
 
 ## Demo Video
 
